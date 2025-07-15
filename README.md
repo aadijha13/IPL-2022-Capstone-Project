@@ -56,5 +56,9 @@ Included visual insights such as:
 *(Visuals are inside the notebook)*
 
 ---
+🚀 How to Run<br>
+git clone https://github.com/aadijha13/IPL-2022-Capstone-Project.git
+cd IPL-2022-Capstone-Project
+jupyter notebook
 
 
